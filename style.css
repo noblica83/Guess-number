@@ -1,0 +1,46 @@
+body {
+    background-color: rgba(199, 250, 111, 0.695);
+    padding: 70px;
+}
+
+h1 {
+    color: darkgreen;
+    text-align: center;
+    
+   
+    
+}
+.gn {
+    background-color: rgba(35, 107, 35, 0.476);
+    height: 350px;
+    padding: 40px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow:15px 20px 85px rgba(26, 62, 15, 0.72);
+
+}
+.gn:hover {
+    transform: scale(1.03);
+}
+p {
+    font-size: 20px;
+    color: darkgreen;
+}
+label {
+    
+    color: darkgreen;
+    font-size: 20px;
+}
+input {
+    border-radius: 6px;
+}
+input[type="submit" i] {
+    background-color:darkgreen ;
+    border-color: darkgreen;
+    color: black;
+}
+.resetButton {
+   position: absolute;
+   left: 50%;
+
+}
